@@ -1,0 +1,5 @@
+Option,Value
+WG_NAME,Ref Bottle
+GAP_WIDTH,4.0
+IGNORE_FIRST,0
+SIGMA_FILTER,0.1

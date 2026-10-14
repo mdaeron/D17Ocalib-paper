@@ -1,0 +1,11 @@
+[[Fit Statistics]]
+    # fitting method   = least_squares
+    # function evals   = 4
+    # data points      = 7
+    # variables        = 1
+    chi-square         = 0.12297691
+    reduced chi-square = 0.02049615
+    Akaike info crit   = -26.2916818
+    Bayesian info crit = -26.3457716
+[[Variables]]
+    offset:  0.06820912 +/- 0.00384700 (5.64%) (init = 0.07)

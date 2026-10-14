@@ -1,0 +1,25 @@
+
+[standardization.carbonates]
+N = 71
+Nf = 60
+D17O_603_sigma = 0.008901
+d18O_VPDB_sigma = 0.191179
+
+[standardization.waters]
+N = 63
+Nf = 54
+D17O_VSMOW_sigma = 0.007110
+d18O_VSMOW_sigma = 0.130237
+
+[DVHW.d18O_RMSWD]
+value = 0.252076
+p = 0.979088
+
+[DVHW.D17O_RMSWD]
+value = 1.588e+00
+p = 5.599e-02
+
+[D17Odiff_DVH_LGB]
+value = 0.020424
+se = 0.006634
+c95 = 0.013003

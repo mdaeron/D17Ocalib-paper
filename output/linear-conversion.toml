@@ -1,0 +1,10 @@
+N = 200
+RMSE_ppm = 0.038
+
+[d18O_random]
+mu = -27.75
+sigma = 10.0
+
+[D17O_random]
+mu = 0.0
+sigma = 0.1

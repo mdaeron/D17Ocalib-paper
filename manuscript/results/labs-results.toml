@@ -1,0 +1,83 @@
+[DD17O_CO2_H2O_25C]
+"Guo & Zhou (2019)" = -0.137840
+"Barkan & Luz (2012)" = -0.205103
+"Roy et al. (2025)" = -0.201966
+
+[reprocessed.thisstudy.D17O_VSMOW_of_NBS18]
+value = -0.042209
+c95 = 0.007540
+
+[reprocessed.thisstudy.D17O_VSMOW_of_IAEA603]
+value = -0.068209
+c95 = 0.007540
+
+[reprocessed.Ellis2023.D17O_VSMOW_of_NBS18]
+value = -0.034382
+c95 = 0.009800
+
+[reprocessed.Ellis2023.D17O_VSMOW_of_IAEA603]
+value = -0.087409
+c95 = 0.009800
+
+[reprocessed.Wostbrock2020.D17O_VSMOW_of_NBS18]
+value = -0.049884
+c95 = 0.017640
+
+[reprocessed.Wostbrock2020.D17O_VSMOW_of_IAEA603]
+value = -0.107376
+c95 = 0.013720
+
+[reprocessed.Wostbrock2020.D17O_VSMOW_of_NBS18_CO2]
+value = -0.104563
+c95 = 0.000000
+
+[reprocessed.Wostbrock2020.D17O_VSMOW_of_IAEA603_CO2]
+value = -0.157055
+c95 = 0.009800
+
+[reprocessed.Barkan2019.D17O_VSMOW_of_NBS18_CO2]
+value = -0.095737
+c95 = 0.009800
+
+[reprocessed.Barkan2019.D17O_VSMOW_of_IAEA603_CO2]
+value = -0.126737
+c95 = 0.011760
+
+[reprocessed.Barkan2019.D17O_VSMOW_of_NBS18]
+value = -0.044748
+c95 = 0.009800
+
+[reprocessed.Barkan2019.D17O_VSMOW_of_IAEA603]
+value = -0.075748
+c95 = 0.011760
+
+[alt_DVH_comparison.D17O_VSMOW_of_water]
+W20 = 0.029
+SE_W20 = 0.003
+this_study = 0.032
+SE_this_study = 0.004
+offset = 0.004
+SE_offset = 0.005
+
+[alt_DVH_comparison.D17O_603_of_carb]
+W20 = 0.034
+SE_W20 = 0.007
+this_study = 0.035
+SE_this_study = 0.004
+offset = 0.001
+SE_offset = 0.008
+[DVH_comparison.D17O_VSMOW_of_water]
+W20 = 0.029
+SE_W20 = 0.003
+this_study = 0.032
+SE_this_study = 0.004
+offset = 0.004
+SE_offset = 0.005
+
+[DVH_comparison.D17O_603_of_carb]
+W20 = 0.04
+SE_W20 = 0.007
+this_study = 0.035
+SE_this_study = 0.004
+offset = -0.005
+SE_offset = 0.008
